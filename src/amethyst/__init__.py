@@ -1,5 +1,5 @@
 """Amethyst — turn Markdown into a well-typeset PDF or Word document."""
 
-__version__ = "0.1.0"
+__version__ = "0.1.0.post1"
 
 __all__ = ["__version__"]
