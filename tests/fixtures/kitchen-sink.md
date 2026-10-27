@@ -20,7 +20,7 @@ forces a hard break, and this sentence is the other side of one.
 ## Inline formatting
 
 **Bold**, *italic*, ***bold italic***, ~~struck through~~ and `inline code`,
-followed by a link to [the project](https://github.com/nestix6/Amethyst), a
+followed by a link to [the project](https://github.com/prepkovsky/Amethyst), a
 bare autolink — https://example.com/autolinked — and an internal link back to
 [the inline formatting section](#inline-formatting).
 

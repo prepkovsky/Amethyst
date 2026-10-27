@@ -40,9 +40,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/nestix6/Amethyst"
-Repository = "https://github.com/nestix6/Amethyst"
-Issues = "https://github.com/nestix6/Amethyst/issues"
+Homepage = "https://github.com/prepkovsky/Amethyst"
+Repository = "https://github.com/prepkovsky/Amethyst"
+Issues = "https://github.com/prepkovsky/Amethyst/issues"
 
 [project.scripts]
 amethyst = "amethyst.cli:main"

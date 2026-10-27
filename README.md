@@ -1,6 +1,6 @@
 # Amethyst
 
-[![CI](https://github.com/nestix6/Amethyst/actions/workflows/ci.yml/badge.svg)](https://github.com/nestix6/Amethyst/actions/workflows/ci.yml)
+[![CI](https://github.com/prepkovsky/Amethyst/actions/workflows/ci.yml/badge.svg)](https://github.com/prepkovsky/Amethyst/actions/workflows/ci.yml)
 
 Turn a Markdown file into a well-typeset PDF or Word document.
 
